@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando no setor público, sou do setor administrativo da CPTM. Curso Desenvolvimento de Sistemas Multiplataforma na Fatec-Cotia.
 - 🌱 Estou aprendendo muitas coisas...na área de programação você vive aprendendo, mas atualmente estou focado em Java, PHP e PostgreSQL.
 - 👯 Estou procurando colaborar em projetos que possam me trazer mais conhecimento e agregar valor pra minha formação como desenvolvedor.
-- 🤔 Estou desenvolvendo um projeto que está relacionado em como auxiliar as pessoas a monitorarem seus hábitos, é uma apliacação que agrupa alguns hábitos em vez de um hábito só, estou fazendo esse projeto juntamente com uma turma da ETEC.
+- 🤔 Estou desenvolvendo um projeto que está relacionado em como auxiliar as pessoas a monitorarem seus hábitos, é uma aplicação que agrupa alguns hábitos em vez de um hábito só, estou fazendo esse projeto juntamente com uma turma da ETEC.
 
 <div>
 <a href="https://github.com/Liebertt">
