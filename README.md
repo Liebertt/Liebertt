@@ -1,7 +1,7 @@
 
 # Olá, me chamo Lieberte ! 
 
-- 🔭 Atualmente estou trabalhando no setor público, sou do setor administrativo da CPTM. Curso Desenvolvimento de Sistemas Multiplataforma na Fatec-Cotia.
+- 🔭 Atualmente estou trabalhando no setor público, sou do setor administrativo da CPTM. Curso Desenvolvimento de Sistemas Multiplataforma na Fatec-Cotia. Recentemente concluí o técnico em Desenvolvimento de Sistemas pela Etec Osasco.
 - 🌱 Estou aprendendo muitas coisas... na área de programação você vive aprendendo, mas atualmente estou focado em Node.js, React, Java, PHP e MySQL/PostgreSQL.
 - 👯 Estou procurando colaborar em projetos que possam me trazer mais conhecimento e agregar valor pra minha formação como desenvolvedor.
 - 🤔 Estou desenvolvendo um projeto que está relacionado em como auxiliar as pessoas a monitorarem seus hábitos, é uma aplicação que agrupa alguns hábitos em vez de um hábito só, estou fazendo esse projeto juntamente com uma turma da ETEC.
