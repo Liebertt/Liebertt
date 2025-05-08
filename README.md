@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Liebertt/Liebertt/blob/output/github-contribution-grid-snake.svg)
+
 # Olá, me chamo Lieberte ! 
 
 - 🔭 Atualmente estou trabalhando no setor público, sou do setor administrativo da CPTM. Curso Desenvolvimento de Sistemas Multiplataforma na Fatec-Cotia.
