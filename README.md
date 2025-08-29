@@ -18,7 +18,7 @@
 `JavaScript` | `Node.js` | `React` | `Java` | `PHP`  
 
 🗄️ **Banco de dados:**  
-`MySQL` | `PostgreSQL`  
+`MySQL` | `PostgreSQL` | `NoSQL`
 
 🎨 **Design & Prototipagem:**  
 `Figma`  
