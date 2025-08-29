@@ -1,20 +1,45 @@
+# 👋 Olá, eu sou o Lieberte!  
 
-# Olá, me chamo Lieberte ! 
+🚆 Trabalho atualmente no setor administrativo da **CPTM**.  
+📚 Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec-Cotia** e formado como técnico em **Desenvolvimento de Sistemas** pela **Etec Osasco**.  
 
-- 🔭 Atualmente estou trabalhando no setor público, sou do setor administrativo da CPTM. Curso Desenvolvimento de Sistemas Multiplataforma na Fatec-Cotia. Recentemente concluí o técnico em Desenvolvimento de Sistemas pela Etec Osasco.
-- 🌱 Estou aprendendo muitas coisas... na área de programação você vive aprendendo, mas atualmente estou focado em Node.js, React, Java, PHP e MySQL/PostgreSQL.
-- 👯 Estou procurando colaborar em projetos que possam me trazer mais conhecimento e agregar valor pra minha formação como desenvolvedor.
-- 🤔 Estou desenvolvendo um projeto que está relacionado em como auxiliar as pessoas a monitorarem seus hábitos, é uma aplicação que agrupa alguns hábitos em vez de um hábito só, estou fazendo esse projeto juntamente com uma turma da ETEC.
+---
 
-<div>
-<a href="https://github.com/Liebertt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liebertt&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Liebertt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## 🚀 Sobre mim
+- 🔭 No momento, além da minha atuação no setor público, estou me dedicando à transição de carreira para a área de **desenvolvimento de software**.  
+- 🌱 Sempre aprendendo! Atualmente focado em: **Node.js, React, Java, PHP e MySQL/PostgreSQL**.  
+- 👯 Buscando colaborar em projetos que me tragam **experiência prática** e gerem **impacto real**.  
+- 🛠️ Desenvolvendo um projeto chamado **Habitflow**, uma aplicação para auxiliar pessoas a monitorarem múltiplos hábitos de forma simples e prática.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+💻 **Linguagens e frameworks:**  
+`JavaScript` | `Node.js` | `React` | `Java` | `PHP`  
+
+🗄️ **Banco de dados:**  
+`MySQL` | `PostgreSQL`  
+
+🎨 **Design & Prototipagem:**  
+`Figma`  
+
+---
+
+## 📊 Estatísticas
+<div align="center">
+  <a href="https://github.com/Liebertt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liebertt&layout=compact&langs_count=7&theme=dracula"/>
+    
+  </a>
 </div>
 
+---
 
+## 📫 Como me encontrar
+- ✉️ [Email profissional](mailto:liebertt7@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lieberte-ferreira)  
+- 🐙 [GitHub](https://github.com/Liebertt)  
 
+---
 
-
-
-
+⭐ Se curtiu, não esquece de dar uma estrela nos meus repositórios!
